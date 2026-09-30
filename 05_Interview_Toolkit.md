@@ -8,6 +8,7 @@
 ## 1. Positioning the background
 
 ### 1.1 What she already has
+
 - **Client-facing sales experience** in financial services, including targets and relationship building.
 - **Product knowledge of investments:** debt and equity funds, liquid funds, risk classes, NISM V-A, which connects directly to treasury and cash-surplus conversations with corporate clients.
 - **Understanding of markets and investor behaviour,** useful for explaining rates, yields and risk to clients.
@@ -24,6 +25,7 @@ Credit appraisal and lending structure are new. The JD says the bank trains peop
 ## 2. Question bank with answer outlines
 
 ### A. About the role and motivation
+
 1. **Why wholesale banking and why ICICI?** Link: corporate relationships, the "One Bank, One Team" 360° approach, exposure to many industries, and training. Avoid generic answers; mention one thing she has read about the bank.
 2. **Why move from mutual funds?** Move from product distribution to a full relationship and credit judgment, from selling one product to solving a client's whole set of needs.
 3. **What does an RM actually do?** Use Primer 1, section 3: originate, appraise, structure, sanction, document, monitor, cross-sell.
@@ -31,6 +33,7 @@ Credit appraisal and lending structure are new. The JD says the bank trains peop
 5. **What does "Fair to Customer, Fair to Bank" mean to you?** Primer 1, section 8, plus a real example from her own work where she recommended the right product over the highest-fee one.
 
 ### B. Banking mechanics
+
 6. **How does a bank make money?** Spread on loans (NII) plus fees plus float plus treasury. Give the ₹100-crore example from Primer 1.
 7. **What is CASA and why does it matter?** Cheap funding; corporate current accounts are the main source for wholesale banking.
 8. **Explain CRR and SLR.** Cash with RBI and government securities; both reduce the share of deposits available for lending.
@@ -43,6 +46,7 @@ Credit appraisal and lending structure are new. The JD says the bank trains peop
 15. **What is drawing power?** Primer 2, section 7.3.
 
 ### C. Financial analysis
+
 16. **Walk me through how you would analyse a company asking for a ₹100 crore loan.** Use the case in section 3 below.
 17. **Which ratios matter most for a term loan? For working capital?** DSCR, leverage (TOL/TNW, net debt/EBITDA) and ICR for term loans; current ratio, debtor/inventory/creditor days and the cash conversion cycle for working capital.
 18. **A company's profit is rising but its cash flow is falling. What could be happening?** Receivables or inventory building, aggressive revenue recognition, capitalised costs, related-party sales.
@@ -52,6 +56,7 @@ Credit appraisal and lending structure are new. The JD says the bank trains peop
 22. **What are some early warning signs of a borrower in trouble?** Primer 2, section 9.2.
 
 ### D. Markets and instruments
+
 23. **Difference between a T-bill, a CP and a CD?** Government / corporate / bank; all discount instruments up to one year; risk and yield rise in that order.
 24. **What is a G-sec yield and why does it matter to banks?** It is the base rate for pricing; banks hold G-secs; yield rises hit their bond books.
 25. **Why do bond prices fall when yields rise?** Use the ₹93.29 example.
@@ -60,6 +65,7 @@ Credit appraisal and lending structure are new. The JD says the bank trains peop
 28. **What would you tell a corporate client about where to park ₹20 crore for 45 days?** Options: overnight/liquid fund, T-bills, CDs, short FD; compare safety, yield, liquidity, tax.
 
 ### E. Current affairs (Primer 3)
+
 29. **What is happening with the rupee and why?** Oil, foreign selling, strong dollar; RBI intervention; ranges.
 30. **What do you expect the RBI to do in October and why?** Inflation at 4.82% and rising, weak rupee, US Fed hike, but growth strong. Market expects a 25 bps hike. Give your view with reasons and acknowledge the alternative (hold).
 31. **What is FCNR(B) and why did the RBI open a swap window?** Section 7.3 of Primer 3.
@@ -69,6 +75,7 @@ Credit appraisal and lending structure are new. The JD says the bank trains peop
 35. **What happens to bank margins when rates rise?** Repo-linked loans reprice fast; deposits reprice slowly; net effect usually positive at first, but bond portfolios lose value and credit quality may weaken.
 
 ### F. Situational and behavioural
+
 36. **A client wants to buy a complex derivative you think is unsuitable. What do you do?** Explain the risk, propose a simpler hedge, involve compliance and the product team, document the discussion; do not sell something harmful.
 37. **Your target is behind and a borderline credit comes to you. What do you do?** Do not bend the standards; present it honestly, including the risks, to Risk; look for a safer structure.
 38. **A long-standing client's account shows delays and falling turnover. What do you do?** Meet the client, ask for explanations and data, tell your senior and Risk early.
@@ -127,6 +134,7 @@ Basic banking numbers: CRR about 3%; SLR 18%; capital adequacy minimum 9% plus 2
 ---
 
 ## 5. Answer frameworks
+
 - **For any "explain X" question:** definition in one line, a simple example, why it matters to a bank or client, one risk.
 - **For any "what will happen" question:** state the view, give two reasons, name what would change your mind.
 - **For any numbers question:** show the formula, then the calculation, then what the result says.
@@ -135,6 +143,7 @@ Basic banking numbers: CRR about 3%; SLR 18%; capital adequacy minimum 9% plus 2
 ---
 
 ## 6. Good questions to ask the interviewer
+
 1. What does the training programme for RMs from non-banking backgrounds look like in the first six months?
 2. Which industries or client segments does this team focus on?
 3. How is the performance of an RM measured: balances, fees, portfolio quality?
@@ -144,6 +153,7 @@ Basic banking numbers: CRR about 3%; SLR 18%; capital adequacy minimum 9% plus 2
 ---
 
 ## 7. Glossary (A to Z, short)
+
 - **Accrual:** interest earned over time.
 - **AT1:** Additional Tier 1 capital bond of a bank.
 - **BG:** Bank guarantee.

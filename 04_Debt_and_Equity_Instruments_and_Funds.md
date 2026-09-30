@@ -9,11 +9,13 @@
 ## Part A. The logic that connects everything
 
 ### A.1 Why instruments exist
+
 - Some people and institutions have surplus money. Others need money. Instruments are the contracts that connect them.
 - **Debt:** you lend; you get interest and your principal back on a date. You are a creditor.
 - **Equity:** you own part of the business; you share in profits and losses with no promised return. You are an owner.
 
 ### A.2 Who issues what
+
 | Issuer | Typical instruments |
 |---|---|
 | Central government | T-bills, dated G-secs, floating rate bonds, inflation-indexed bonds |
@@ -35,6 +37,7 @@ MONEY MARKET (up to 1 year)      CAPITAL MARKET (over 1 year)
 ```
 
 ### A.4 Risk and return: the four risks
+
 1. **Interest rate risk:** bond prices fall when market rates rise.
 2. **Credit risk:** the issuer may not pay.
 3. **Liquidity risk:** you may not be able to sell quickly at a fair price.
@@ -48,6 +51,7 @@ General rule: the more risk, the higher the return expected. The bond ladder in 
 ## Part B. Debt basics (the mathematics in plain English)
 
 ### B.1 The vocabulary
+
 - **Face value (par):** the amount repaid at maturity (G-secs and most bonds: ₹100 per unit, though trading lots are larger).
 - **Coupon:** the fixed interest, stated as % of face value. A 7% coupon on ₹100 means ₹7 a year.
 - **Maturity:** the date the principal is repaid.
@@ -63,12 +67,14 @@ A bond pays a fixed coupon. If market yields rise, the old bond's fixed coupon l
 So a 1 percentage point rise in yield lowered the price by about 6.7%.
 
 ### B.3 Duration: the sensitivity measure
+
 - **Macaulay duration:** the weighted average time, in years, to receive the bond's cash flows.
 - **Modified duration:** approximately the % change in price for a 1 percentage point change in yield. A bond with modified duration 7 loses about 7% if yield rises 1 point, and gains about 7% if yield falls 1 point. For the example above, the 10-year 7% bond has modified duration of about 7.0, which matches the 6.7% fall (the gap is because the price–yield relationship is slightly curved, called convexity).
 - Longer maturity and lower coupon mean higher duration, so more interest rate risk.
 - **Rule of thumb for a fund held for a year:** return ≈ portfolio yield − (duration × rise in yield). A fund yielding 7% with duration 3 would earn about 5.5% if yields rise 0.5 points immediately, and about 8.5% if they fall 0.5 points.
 
 ### B.4 Accrual vs mark-to-market
+
 - **Accrual:** interest earns day by day, and a hold-to-maturity investor receives the agreed yield regardless of daily price moves.
 - **Mark-to-market (MTM):** the value today at the market's current prices. Mutual funds are required to value holdings at market prices, so NAV moves when yields move.
 - Banks classify their own bond holdings as Held to Maturity (accrual accounting), Available for Sale or Held for Trading (marked to market).
@@ -77,6 +83,7 @@ So a 1 percentage point rise in yield lowered the price by about 6.7%.
 A corporate bond's yield = G-sec yield of the same maturity + **credit spread**. The spread compensates for default risk and lower liquidity. Illustration (not current data): G-sec 10-year at 7.2%; AAA corporate at 7.7% (spread 0.5%); AA at 8.7% (spread 1.5%); A at 10% (spread 2.8%).
 
 ### B.6 Credit ratings
+
 - Ratings come from agencies such as CRISIL, ICRA, CARE, India Ratings, Acuité and Brickwork.
 - **Long-term scale:** AAA (highest safety), AA, A, BBB (lowest investment grade), BB and below (speculative), D (default). Modifiers "+" and "−" refine each step. Outlooks: positive, stable, negative.
 - **Short-term scale (up to 1 year):** A1+ (highest), A1, A2, A3, A4, D.
@@ -87,28 +94,33 @@ A corporate bond's yield = G-sec yield of the same maturity + **credit spread**.
 ## Part C. The debt spectrum, from shortest to longest
 
 ### C.1 Overnight and call money
+
 - **Call money:** banks lend to each other for one day. **Notice money:** 2 to 14 days. **Term money:** 15 days to 1 year.
 - **Rate:** moves around the RBI repo rate, between the SDF floor (5.00%) and MSF ceiling (5.50%). The **WACR** (weighted average call rate) is the RBI's operating target.
 - **Who:** banks and primary dealers (non-banks can lend in some forms).
 - **Bank link:** how banks balance daily cash needs after CRR/SLR. When there is surplus liquidity (as now), call rates sit near the SDF.
 
 ### C.2 Repo, reverse repo and TREPS
+
 - **Repo:** a short-term loan against securities. The borrower sells a security with an agreement to buy it back at a higher price; the difference is interest. It is collateralised lending, so very safe.
 - **Who borrows and lends?** From the RBI's point of view, a *repo* is when the RBI lends to banks (repo rate 5.25%). A *reverse repo* is when the RBI borrows from banks (the current tool is the SDF at 5.00%, and variable rate reverse repo auctions for longer periods).
 - **TREPS (Tri-Party Repo):** a collateralised overnight market run through CCIL. Mutual funds, especially liquid and overnight funds, lend here. Rates are usually a little below call money rates.
 - **Corporate relevance:** companies with spare cash can invest via funds that lend in TREPS.
 
 ### C.3 Treasury Bills (T-bills)
+
 - **What:** short-term zero-coupon securities issued by the government of India at a discount and repaid at face value. No interest payments; the return is the gap between price and face value.
 - **Maturities:** 91-day, 182-day, 364-day. Auctioned by RBI on behalf of the government (weekly for 91-day; alternate weeks for 182- and 364-day). There are also **Cash Management Bills (CMBs)** of shorter maturity used for temporary government cash gaps.
 - **Risk:** effectively no credit risk (sovereign); small interest rate risk; very liquid.
 - **Pricing example:** a 91-day T-bill with a yield of 6.00%.
 Price = 100 ÷ (1 + 0.06 × 91/365) = 100 ÷ 1.014959 = **₹98.53**.
 You invest ₹98.53 and receive ₹100 after 91 days. The gain is ₹1.47.
+
 - **Who holds:** banks, mutual funds, corporates, insurers; retail can buy through the RBI Retail Direct platform or via non-competitive bids.
 - **Banks' link:** T-bills count towards the SLR and LCR, and T-bill yields can be used as a benchmark for some floating-rate products.
 
 ### C.4 Certificates of Deposit (CDs)
+
 - **What:** a tradable deposit certificate issued by banks (and certain financial institutions) at a discount, for 7 days to 1 year.
 - **Who buys:** mutual funds (significantly), corporates, insurers.
 - **Rate:** slightly higher than T-bills because of bank credit risk (though small for top banks).
@@ -116,6 +128,7 @@ You invest ₹98.53 and receive ₹100 after 91 days. The gain is ₹1.47.
 - **Example:** an ICICI-type bank issues a 6-month CD at 6.6% annualised; a liquid or money market fund buys it. The bank's funding cost is the yield.
 
 ### C.5 Commercial Paper (CP)
+
 - **What:** an unsecured, short-term promissory note issued by corporates, NBFCs and financial institutions, 7 days to 1 year, at a discount.
 - **Rating:** must have a minimum short-term rating (A3 or above), and most buyers demand A1+.
 - **Use:** a strong company can borrow more cheaply from CP than a bank working capital loan.
@@ -127,6 +140,7 @@ You invest ₹98.53 and receive ₹100 after 91 days. The gain is ₹1.47.
 Bills of exchange drawn on buyers, discounted by banks (see Primer 1, section 4.1). The bank holds them or rediscounts them with other banks or institutions.
 
 ### C.7 Government securities (G-secs): dated securities
+
 - **What:** long-term bonds issued by the Central Government to fund its deficit. Maturities range from 2 to about 40 years. Face value ₹100.
 - **Coupon:** fixed, paid **semi-annually** (every six months). Example: a 7.10% 2034 G-sec pays ₹3.55 twice a year per ₹100 face value.
 - **Auction:** RBI conducts regular auctions (generally on Fridays). Bidding is competitive (institutions) or non-competitive (small investors).
@@ -142,6 +156,7 @@ Bills of exchange drawn on buyers, discounted by banks (see Primer 1, section 4.
 - **Bank link:** banks must hold around 18% of deposits as SLR in such securities. Their bond books gain when yields fall and lose when yields rise, so rising yields (as in September 2026) reduce banks' treasury profits.
 
 ### C.8 Corporate bonds, NCDs and debentures
+
 - **What:** long-term borrowing by companies (over 1 year), typically with fixed coupons, **secured** (backed by assets) or **unsecured**, privately placed or public, listed on exchanges.
 - **Who issues:** PSUs (e.g., NTPC, REC, PFC), NBFCs, infrastructure companies, private corporates, banks.
 - **Features to know:**
@@ -157,27 +172,32 @@ Bills of exchange drawn on buyers, discounted by banks (see Primer 1, section 4.
 - **Bank link:** banks and their subsidiaries arrange issues (fee), buy them (as an investment), and sometimes lend to the same company (so the RM sees a total exposure).
 
 ### C.9 Bank capital instruments: AT1 and Tier 2
+
 - **Tier 2 bonds:** subordinated debt (repaid after depositors, before equity), pay higher coupons.
 - **Additional Tier 1 (AT1) bonds:** perpetual (no maturity), with call options and the ability to be **written down** if the bank is in trouble. In March 2020, Yes Bank's AT1 bonds (about ₹8,400 crore) were written off in its rescue. Mutual funds holding them took losses, which prompted tighter SEBI rules on how they are held and valued.
 - **Lesson:** a higher coupon is payment for a loss-absorbing structure, not free return.
 
 ### C.10 Securitised debt (PTCs, ABS)
+
 - **What:** loans (vehicle loans, home loans, microfinance, business loans) are bundled into a pool sold to a trust, which issues **Pass Through Certificates (PTCs)** backed by the pool's cash flows. Investors get paid from borrowers' repayments.
 - **Why:** lenders (especially NBFCs) get funding and free up capital; investors get yield with pool-level credit enhancement.
 - **Bank link:** the bank buys PTCs, or does **direct assignment** of loan pools.
 
 ### C.11 Small savings and bank deposits (retail benchmarks)
+
 - **Fixed deposits (FDs):** bank deposits for a fixed period. Insured up to ₹5 lakh per depositor per bank by DICGC. Rates are known at start; premature withdrawal has a penalty.
 - **PPF, NSC, Sukanya Samriddhi, Senior Citizens' Savings Scheme, etc.:** government-backed schemes with rates reset quarterly.
 - **Why include them:** these are the "competitors" of debt funds for household savings, and the reference for retail yields.
 
 ### C.12 Interest rate and currency derivatives
+
 - **Interest rate swaps (IRS) / OIS:** exchange fixed interest for floating interest on a notional amount. An overnight index swap exchanges a fixed rate against the compounded overnight rate. Used by banks, funds and corporates to hedge or speculate on rates.
 - **Forward rate agreements (FRA):** lock a future interest rate.
 - **Currency forwards/swaps/options:** hedge exchange rate risk (Primer 1, 4.4).
 - Mutual funds have limited use of these, mainly for hedging.
 
 ### C.13 Summary table: the debt ladder
+
 | Instrument | Maturity | Issuer | Coupon/return | Main risk | Typical holders |
 |---|---|---|---|---|---|
 | Call/notice/term money | 1 day to 1 year | Banks | Market rate | Counterparty | Banks |
@@ -201,6 +221,7 @@ It pools investors' money and buys the instruments above. Investors hold units; 
 
 ### D.2 SEBI's categories of debt funds (16)
 From shortest to longest:
+
 | Category | What SEBI requires (roughly) | Who it suits |
 |---|---|---|
 | **Overnight** | Invests in securities maturing the next day | Parking money for days |
@@ -223,6 +244,7 @@ From shortest to longest:
 Other structures: **Fixed Maturity Plans (FMPs)** (closed-ended, hold to maturity), **Target Maturity Funds / Index funds on bonds** (e.g., funds tracking an index that matures on a fixed date) and **Arbitrage funds** (equity-taxed, low-risk strategies).
 
 ### D.3 Liquid fund specifics (most relevant to corporate treasuries)
+
 - Maturity of securities up to 91 days, marked to market daily.
 - At least a stated minimum in liquid assets (cash, G-secs, T-bills, repo), which adds safety.
 - Quick redemption: investors can redeem and receive money the next working day; there is an instant redemption option up to a cap.
@@ -235,6 +257,7 @@ SEBI requires each debt fund to state a risk class from a grid: **credit risk** 
 
 ### D.5 What happens to a fund when yields move
 *Example with 3 funds, a 1-year view, 0.5-point rise in yields:*
+
 | Fund | Yield | Duration | Approx. return |
 |---|---|---|---|
 | Liquid | 5.8% | 0.1 | about 5.8% (almost no MTM effect) |
@@ -243,6 +266,7 @@ SEBI requires each debt fund to state a risk class from a grid: **credit risk** 
 And if yields had instead **fallen** 0.5 points, the long gilt fund would gain about 4 points over its yield. The point: the same market move has a far bigger effect on funds with higher duration.
 
 ### D.6 Credit events: what the past taught
+
 - **IL&FS (2018), DHFL (2019), Franklin Templeton's six closed schemes (April 2020)** and **Yes Bank AT1 write-off (March 2020)**: lower-rated paper was marked down sharply, creating losses and redemption pressure.
 - Responses from SEBI: stricter rules on liquidity and portfolio concentration, valuation norms, the **risk-o-meter**, the **PRC matrix**, **segregated portfolios ("side pockets")** for a defaulted bond, and mark-to-market for all debt funds.
 - **Example of the size of credit risk:** if a fund has 5% of assets in a bond that is downgraded and the bond's price falls 20%, the fund's NAV falls 1%. If it defaults to zero, NAV falls 5%. This is why fund houses limit exposure to single issuers.
@@ -274,6 +298,7 @@ Funds give diversification, professional credit research and daily liquidity wit
 A share is a unit of ownership in a company. Shareholders get **dividends** (a share of profit, not guaranteed) and **capital gains** if the price rises. Shareholders are last in line if the company is wound up.
 
 ### F.2 Types of equity instruments
+
 - **Ordinary (equity) shares**
 - **Preference shares:** fixed dividend and priority over equity in payment; can be cumulative, redeemable or convertible.
 - **Warrants:** right to buy shares at a fixed price.
@@ -281,6 +306,7 @@ A share is a unit of ownership in a company. Shareholders get **dividends** (a s
 - **Convertible debentures:** debt that converts to shares.
 
 ### F.3 How companies raise equity
+
 - **IPO (Initial Public Offer):** first sale to the public. Price is set via a book-building range.
 - **FPO (Follow-on Public Offer):** further issue by a listed company.
 - **OFS (Offer for Sale):** existing shareholders (like promoters or PE funds) sell.
@@ -291,6 +317,7 @@ A share is a unit of ownership in a company. Shareholders get **dividends** (a s
 - **Bank link:** the wholesale bank finances promoters (loans against shares), advises on IPOs/QIPs (with group securities arms), and lends to PE-backed companies.
 
 ### F.4 The market
+
 - **Primary market:** shares sold for the first time. **Secondary market:** trading on NSE/BSE. Settlement is T+1. Regulator: SEBI.
 - **Market capitalisation** = share price × number of shares. SEBI ranks the top 100 companies by market cap as **large cap**, 101 to 250 as **mid cap**, and the rest as **small cap**.
 - **Indices:** Nifty 50, Sensex, Nifty Next 50, Midcap 150, Smallcap 250, sectoral indices.
@@ -306,6 +333,7 @@ Large cap, large and mid cap, mid cap, small cap, multi cap, flexi cap, dividend
 Futures and options on indices and stocks. Options buyers pay a premium; sellers take on risk. SEBI has tightened rules for retail participants in index options.
 
 ### F.8 Linking equity to interest rates and flows
+
 - When bond yields rise, the discount rate investors use rises, so the present value of future earnings falls and **valuations compress**. Growth and long-duration sectors (IT, consumer discretionary) suffer more.
 - Banks' shares react to credit growth, NIM, NPAs and treasury losses from bond mark-downs.
 - FPIs selling puts pressure on the market; domestic SIPs absorb some of it (Primer 3).
@@ -332,6 +360,7 @@ Futures and options on indices and stocks. Options buyers pay a premium; sellers
 ---
 
 ## Part H. Self-test
+
 1. A 182-day T-bill is bought at ₹96.80. What is the return over the period and the annualised yield?
  *(Gain = 100 − 96.80 = 3.20; period return = 3.20 ÷ 96.80 = 3.31%; annualised ≈ 3.31% × 365/182 = 6.63%)*
 2. Why does a bond's price fall when yields rise? Explain with a numerical example.

@@ -1,6 +1,7 @@
 # Primer 6 — ICICI Bank: Notes, Slide Guide, and Interview Questions
 
 **Sources (all three were uploaded by you; every number below comes from them):**
+
 - **[AGM]** "ICICI Bank: Key highlights", Annual General Meeting, 21 Aug 2026 (10 slides)
 - **[Q1]** "Q1-2027: Performance review", 18 Jul 2026 (59 slides)
 - **[Debt]** "Debt Market Investor Meetings", 22–23 Jul 2026 (16 slides)
@@ -17,6 +18,7 @@
 ★★★ = know cold, ★★ = good to know, ★ = background
 
 ### [AGM] deck
+
 | Slide | Content | Why it matters | Priority |
 |---|---|---|---|
 | **3** | "Our Approach": principles, coverage, delivery framework | The JD's own phrases ("Fair to Customer, Fair to Bank", "One Bank, One Team", "360°") come from here. Interviewers will test whether she knows this | ★★★ |
@@ -28,6 +30,7 @@
 | 9 | Q1-2027 highlights | One-slide summary | ★★ |
 
 ### [Q1] Performance review deck
+
 | Slide | Content | Why it matters | Priority |
 |---|---|---|---|
 | **4** | Key highlights (1/2): loan growth by segment | Domestic corporate +18.5% y-o-y; Business Banking +28.2% | ★★★ |
@@ -57,6 +60,7 @@
 | 53 | Consolidated capital adequacy | Group capital | ★ |
 
 ### [Debt] deck
+
 | Slide | Content | Priority |
 |---|---|---|
 | 6 | Overview: 2nd largest private bank by assets; one of 3 D-SIBs; NII and NIM | ★★ |
@@ -74,6 +78,7 @@
 **Who they are** *(Debt, slide 6)*: the second largest private-sector bank in India by assets, and one of three Domestic Systemically Important Banks (D-SIBs), meaning RBI treats it as too important to fail and requires extra capital. Market capitalisation was US$110.5 bn on 21 Jul 2026.
 
 **Scale at 30 Jun 2026** *(Q1, slides 14, 44, 48)*
+
 | Item | ₹ billion | Roughly |
 |---|---|---|
 | Total assets (standalone) | 24,324 | ₹24.3 lakh crore |
@@ -83,6 +88,7 @@
 | Branches | 7,608 | (Q1, slide 47) |
 
 **Profitability** *(Q1, slides 7–9)*
+
 | Item | Q1-2027 | Change |
 |---|---|---|
 | Net interest income | ₹243.84 bn | +12.7% y-o-y |
@@ -100,6 +106,7 @@
 **Subsidiaries** *(Debt, slide 9; Q1, slides 33–35)*: life insurance, general insurance, asset management, broking, housing finance, pension fund management, venture capital, and banks in the UK and Canada.
 
 ### 2.1 "Our Approach" (AGM, slide 3): the thinking behind the JD
+
 | Part | Content |
 |---|---|
 | **Principles** | (1) Return of capital (2) **Fair to Customer, Fair to Bank** (3) **One Bank, One Team** (4) Agile risk management (5) Compliance with conscience |
@@ -111,6 +118,7 @@
 How it maps to the RM role: *micromarkets* = picking local/industry clusters to cover; *ecosystems* = the anchor company's suppliers, dealers and employees (Primer 1, section 4.3); *collaborations* = working with fintechs and other partners; *agile risk management* = the credit discipline in the JD. "Return of capital" is worth mentioning: it puts getting the money back ahead of earning on it.
 
 ### 2.2 How the profit trend looks *(AGM, slide 4)*
+
 | ₹ billion | FY2022 | FY2024 | FY2025 | FY2026 |
 |---|---|---|---|---|
 | PBT excl. treasury | 297.06 | 544.79 | 607.13 | 650.21 |
@@ -125,6 +133,7 @@ How it maps to the RM role: *micromarkets* = picking local/industry clusters to 
 ## 3. The wholesale business in the numbers
 
 ### 3.1 Segment profit (Q1, slide 10), ₹ billion
+
 | Segment | FY2026 | Q1-2026 | Q4-2026 | Q1-2027 | Q1 y-o-y |
 |---|---|---|---|---|---|
 | Retail | 232.44 | 47.35 | 69.27 | 62.39 | +31.8% |
@@ -139,12 +148,14 @@ How it maps to the RM role: *micromarkets* = picking local/industry clusters to 
 - "Treasury" segment PBT (₹48.22 bn) is much bigger than "treasury income" in the P&L (₹1.51 bn, slide 8) because they are defined differently. The bank's own target is profit *excluding treasury* (AGM slide 3).
 
 ### 3.2 Who counts as "corporate"? (Q1, slides 4, 14)
+
 - **Business Banking** = borrowers with turnover **up to ₹7.50 bn (₹750 crore)**. Portfolio ₹3,501.56 bn, +28.2% y-o-y, 21.4% of advances.
 - **Domestic corporate and others** = larger borrowers. Portfolio ₹3,266.31 bn, +18.5% y-o-y, 6.9% over the previous quarter, 19.9% of advances.
 - Including non-fund exposure (LC, BG), retail is 41.1% of the total portfolio, so non-retail is about 59%.
 - **Consequence for our earlier examples:** the fictional "Sharma Precision" (₹400 crore sales) would be a Business Banking client at ICICI, not a wholesale client. Keep it as a teaching example, but in the interview describe wholesale clients as larger groups, MNCs, PSUs, financial institutions, builders and so on.
 
 ### 3.3 Share of loans by segment over time (AGM, slide 6)
+
 | | Mar-22 | Mar-23 | Mar-24 | Mar-25 | Mar-26 |
 |---|---|---|---|---|---|
 | Retail | 52.5% | 54.2% | 55.6% | 53.5% | 50.5% |
@@ -156,6 +167,7 @@ How it maps to the RM role: *micromarkets* = picking local/industry clusters to 
 The mix has moved towards Business Banking and away from retail. Domestic corporate's share has been roughly steady at 19–21%.
 
 ### 3.4 Rating quality of the corporate book (Q1, slide 25; bank's internal ratings)
+
 | Rating | Mar-22 | Mar-23 | Mar-24 | Mar-25 | Mar-26 | Jun-26 |
 |---|---|---|---|---|---|---|
 | AA− and above | 46.4% | 45.0% | 38.3% | 35.9% | 26.5% | 26.9% |
@@ -169,6 +181,7 @@ The mix has moved towards Business Banking and away from retail. Domestic corpor
 *My reading:* the book has moved down the rating scale from mostly AA to mostly A, with BBB names rising from 19% to 27%. At the same time, the weakest categories (BB and below, non-performing) have nearly vanished. So the bank is lending more to solid mid-rated companies and less to the very highest-rated ones (who can borrow cheaply from bond markets and pay thin spreads) while avoiding the weak end. The deck does not explain the shift, so present this as your reading, not as a fact.
 
 ### 3.5 Stress pockets and watch-lists (Q1, slide 19), ₹ billion
+
 | Item | Jun-25 | Mar-26 | Jun-26 |
 |---|---|---|---|
 | Fund-based outstanding under RBI resolution frameworks | 17.88 | 14.96 | 13.63 |
@@ -178,11 +191,13 @@ The mix has moved towards Business Banking and away from retail. Domestic corpor
 These are small against advances of ₹16,313 bn. Corporate BB-and-below of ₹34.85 bn is about 0.2% of advances *(my calculation)*.
 
 ### 3.6 Corporate NPA flow (Q1, slide 18), ₹ billion, Q1-2027
+
 - Gross additions: corporate and Business Banking 12.21; retail and rural 43.31 (includes 7.06 from Kisan Credit Card).
 - Recoveries and upgrades: corporate and Business Banking 6.35; retail and rural 22.10.
 - So corporate and Business Banking were about 22% of new NPAs in the quarter *(my calculation)*, well below their share of the book.
 
 ### 3.7 Concentration (Q1, slide 29)
+
 | | Mar-22 | Mar-24 | Mar-25 | Mar-26 | Jun-26 |
 |---|---|---|---|---|---|
 | Top 20 borrowers, % of total exposure | 9.6% | 8.3% | 7.5% | 6.4% | 6.5% |
@@ -192,6 +207,7 @@ These are small against advances of ₹16,313 bn. Corporate BB-and-below of ₹3
 All top-20 borrowers were rated A− or above internally at 30 Jun 2026.
 
 ### 3.8 Sector exposure (Q1, slide 52): share of total exposure of ₹32,913 bn
+
 | Sector | Mar-22 | Mar-26 | Jun-26 |
 |---|---|---|---|
 | Retail finance | 35.9% | 36.1% | 35.2% |
@@ -209,6 +225,7 @@ All top-20 borrowers were rated A− or above internally at 30 Jun 2026.
 Links to Primer 3: crude/petrochemicals (2.9%) is exposed to the oil shock but has become smaller over time; construction and real estate have grown; trade has grown fast.
 
 ### 3.9 Named wholesale exposures (Q1, slides 26–28)
+
 - **Power:** ₹643.03 bn; only 1.0% is NPA or BB-and-below. Of the rest, excluding State Electricity Boards, about 85% is rated A− or above.
 - **NBFCs/HFCs:** ₹920.52 bn (loans + investments + non-fund); under 0.5% rated BB-and-below or non-performing.
 - **Builders** (construction finance, lease rental discounting, term loans, working capital): ₹747.21 bn; 0.7% BB-and-below or non-performing.
@@ -222,6 +239,7 @@ Risk-weighted assets: ₹19,487.59 bn in total, of which on-balance sheet ₹17,
 ## 4. Funding, margins and rates
 
 ### 4.1 Deposits (Q1, slides 12–13), ₹ billion
+
 | | 30 Jun 25 | 31 Mar 26 | 30 Jun 26 | y-o-y | q-o-q | Share |
 |---|---|---|---|---|---|---|
 | Current | 2,169.71 | 2,679.81 | 2,478.86 | +14.2% | −7.5% | 13.5% |
@@ -235,6 +253,7 @@ Risk-weighted assets: ₹19,487.59 bn in total, of which on-balance sheet ₹17,
 - **Loans (+19.6%) grew faster than deposits (+14.0%).** The domestic credit-deposit ratio rose from 83.8% (Jun 25) to 85.5% (Mar 26) to 87.5% (Jun 26) (slide 44). The bank is raising more term deposits to fund growth, which costs more than CASA. This is why RMs who bring in operating accounts matter.
 
 ### 4.2 Yields and costs (Q1, slide 40), per cent
+
 | | FY2026 | Q1-2026 | Q4-2026 | Q1-2027 |
 |---|---|---|---|---|
 | Yield on advances | 9.19 | 9.53 | 8.87 | 8.86 |
@@ -260,6 +279,7 @@ SLR investments were ₹4,255.10 bn (Q1 slide 48), roughly 23% of deposits *(my 
 ---
 
 ## 5. Group companies and cross-sell (Q1, slides 33–35)
+
 | Company | Q1-2027 PAT | Notes from the deck |
 |---|---|---|
 | ICICI Prudential Life Insurance | ₹3.86 bn | Annualised premium equivalent ₹21.36 bn |
@@ -278,6 +298,7 @@ SLR investments were ₹4,255.10 bn (Q1 slide 48), roughly 23% of deposits *(my 
 ---
 
 ## 6. Numbers worth memorising
+
 | Item | Value |
 |---|---|
 | Rank / status | 2nd largest private bank by assets; one of 3 D-SIBs |
@@ -376,6 +397,7 @@ The answers are written in the first person. She should put them in her own word
 "Three things. First, loans are growing faster than deposits, so funding is getting tighter and costlier. Second, the corporate book has shifted toward lower internal ratings, although it is still mostly A and above. Third, the environment: high oil, a weak rupee, and a likely rate hike raise costs for borrowers, including builders and NBFCs, which are large exposures. Against that, asset quality, capital and provisions are strong."
 
 ### Section F: Questions she can ask
+
 1. "Domestic corporate lending has grown 18.5% while the rating mix has moved towards A and BBB. How does the team balance growth, pricing and risk for mid-rated borrowers?"
 2. "Loans are growing faster than deposits. How much of the wholesale RM's role is now measured by operating-account balances?"
 3. "With 57% of loans linked to the repo rate, how do RMs discuss rate risk with clients when the RBI is expected to hike?"
@@ -384,6 +406,7 @@ The answers are written in the first person. She should put them in her own word
 ---
 
 ## 8. What this adds to the earlier primers
+
 - **Primer 1, section 6:** I used an illustrative cost of funds of 5.5% and loan rate of 9.25%. ICICI's reported Q1-2027 figures are a cost of funds of 4.51%, cost of deposits of 4.41%, and yield on advances of 8.86%. Keep the teaching example as a method, but quote ICICI's real figures in an interview.
 - **Primer 1 and 2:** Sharma Precision (₹400 crore sales) would sit in Business Banking (turnover up to ₹750 crore) at ICICI.
 - **Primer 2, section 10:** the bank-metrics table can now be filled with ICICI's numbers from section 6 above.
